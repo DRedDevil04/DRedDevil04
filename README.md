@@ -1,31 +1,56 @@
-# Hello, World! 👋
+# Hey, I’m Devam 👾
 
-## Blue team by day, Red team by night
+## Blue team by day, Red team by night 🧢🔴
 
-I'm Devam, an enthusiastic engineering student pursuing Information Technology at IIIT Allahabad. 🚀
+Welcome to my corner of GitHub! I'm an infosec nerd and builder, studying Information Technology at IIIT Allahabad. I break things to understand them — and sometimes automate the breaking. 🤖⚡
 
-## About Me
+---
 
-- 🎓 Studying Information Technology at IIIT Allahabad.
-- 😄 Extremely funny (or at least I like to think so).
-- 🤓 A bit of a geek who loves diving into code and exploring new technologies.
+## 🧠 About Me
 
-## Skills
+- 🎓 Undergrad @ IIIT Allahabad (IT)
+- 🛡️ Cybersecurity Enthusiast (Blue and Red Teaming)
+- 🤖 Currently building an **LLM-based autonomous penetration testing agent**
+- 🧪 Research + real-world hacking = favorite combo
+- 🕹️ I like breaking games (CTF style), tweaking systems, and recovering the "unrecoverable"
 
-- 💻 Programming Languages: C/C++, Java, JavaScript, Python
-- 🌐 Web Development: HTML, CSS, JavaScript, React, Next, NodeJS
-- 🛠️ Tools & Technologies: Metasploit, NMAP, Tensorflow
+---
 
+## 🔧 What I'm Currently Working On
 
-## Connect with Me
+- ⚔️ **Autonomous Pentest Agent**  
+  Planner-Summariser model using PPO & RLHF — hands-off shell automation, real-world attack graph traversal, and memory-powered decision making.
+- Learning Go
+  
+---
+
+## 💻 Languages & Tools
+
+- **Languages**: C, Python, JavaScript, Go, Bash
+- **Frameworks/Tools**: Docker, Kubernetes, React, NodeJS, Django
+- **ML/NLP**: PyTorch, Hugging Face `trl`, Tensorflow, scikit-learn
+- **dev-env**: Yabai/Aerospace, Sketchybar, Neovim (Lua config)
+- **Other favorites**: linux
+
+---
+
+## 📫 Contact
 
 - 📧 Email: devamydesai@gmail.com
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
 
-Let's collaborate, learn, and build together! Feel free to explore my repositories and reach out for any exciting projects or discussions. 🌟
+---
 
-## Stats
+## 📊 Stats
 
-[![Devam's github stats](https://github-readme-stats.vercel.app/api?username=DRedDevil04&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/dreddevil04)
+[![Devam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRedDevil04&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/DRedDevil04)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=DRedDevil04&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRedDevil04&layout=compact&theme=dark&bg_color=151515&title_color=fff)](https://github.com/DRedDevil04)
+
+---
+
+<!-- Optional Terminal Vibes -->
+<!-- 
+![Terminal](https://cdn.jsdelivr.net/gh/DRedDevil04/cool-gifs@main/hackerdemo.gif)
+-->
