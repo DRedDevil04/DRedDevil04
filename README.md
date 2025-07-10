@@ -1,56 +1,31 @@
-# Hey, I’m Devam 👾
+<h1 align="center">Hey there, I'm Devam Desai 👋</h1>
 
-## Blue team by day, Red team by night 🧢🔴
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
+</div>
 
-Welcome to my corner of GitHub! I'm an infosec nerd and builder, studying Information Technology at IIIT Allahabad. I break things to understand them — and sometimes automate the breaking. 🤖⚡
+## 🚀 About Me
+- 🎓 I’m a **Pre-Final Year Student** at [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/)
+- 💻 Currently pursuing **Information Technology**
+- 🔐 Passionate about **Cybersecurity**, **DevOps**, and **AI-based Security Solutions**
+- 🤖 Currently on course to complete my **CPTS** Certification
 
----
+## 🔗 Connect With Me
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/devam-desai-928b27230/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="mailto:devamdesai.iiita@gmail.com">
+    <img src="https://img.shields.io/badge/GMail-red?logo=gmail&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://www.instagram.com/devam_d_11/">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge">
+  </a>
+</div>
 
-## 🧠 About Me
+## 🖥️ GitHub Profile Stats
+[![Devam's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DRedDevil04&count_private=true&theme=tokyonight&showicons=true)](https://github.com/DRedDevil04)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRedDevil04&langs_count=5&theme=tokyonight)](https://github.com/DRedDevil04)
 
-- 🎓 Undergrad @ IIIT Allahabad (IT)
-- 🛡️ Cybersecurity Enthusiast (Blue and Red Teaming)
-- 🤖 Currently building an **LLM-based autonomous penetration testing agent**
-- 🧪 Research + real-world hacking = favorite combo
-- 🕹️ I like breaking games (CTF style), tweaking systems, and recovering the "unrecoverable"
-
----
-
-## 🔧 What I'm Currently Working On
-
-- ⚔️ **Autonomous Pentest Agent**  
-  Planner-Summariser model using PPO & RLHF — hands-off shell automation, real-world attack graph traversal, and memory-powered decision making.
-- Learning Go
-  
----
-
-## 💻 Languages & Tools
-
-- **Languages**: C, Python, JavaScript, Go, Bash
-- **Frameworks/Tools**: Docker, Kubernetes, React, NodeJS, Django
-- **ML/NLP**: PyTorch, Hugging Face `trl`, Tensorflow, scikit-learn
-- **dev-env**: Yabai/Aerospace, Sketchybar, Neovim (Lua config)
-- **Other favorites**: linux
-
----
-
-## 📫 Contact
-
-- 📧 Email: devamydesai@gmail.com
-
----
-
-## 📊 Stats
-
-[![Devam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DRedDevil04&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/DRedDevil04)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DRedDevil04&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRedDevil04&layout=compact&theme=dark&bg_color=151515&title_color=fff)](https://github.com/DRedDevil04)
-
----
-
-<!-- Optional Terminal Vibes -->
-<!-- 
-![Terminal](https://cdn.jsdelivr.net/gh/DRedDevil04/cool-gifs@main/hackerdemo.gif)
--->
+## 📊 Recent Activity Graph
+[![Devam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DRedDevil04&bg_color=1e1e1e&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=false)](https://github.com/DRedDevil04/github-readme-activity-graph)
